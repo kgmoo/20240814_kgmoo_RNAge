@@ -1,11 +1,11 @@
 ##################
 ### Keagan Moo ###
 ### 2024/08/15 ###
-### RNA Break  ###
+### RNA Summary###
 ##################
 
 # This script loads in the nuclei and sample level data from the single nucleus skeletal muscle data from FUSION,
-# and using the MILO environment breaks them up into cell type cell x gene matricies for later work
+# and then generates some useful summary statistics for comparing to other datasets
 library("Seurat")
 library("glue")
 library("SingleCellExperiment")

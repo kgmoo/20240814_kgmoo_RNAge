@@ -12,4 +12,4 @@
 #SBATCH --mail-type=END,FAIL
 #SBATCH --partition=largemem
 
-Rscript /nfs/turbo/umms-scjp/kgmoo/analysis/20240814_kgmoo_RNAge/RNA_BREAK-Copy1.R
+Rscript /nfs/turbo/umms-scjp/kgmoo/analysis/20240814_kgmoo_RNAge/RNA_SUM.R

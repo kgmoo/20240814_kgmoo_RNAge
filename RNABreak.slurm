@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Get sample level gene count matricies
+# Get cell type level gene count matricies
 
 #SBATCH -J RNA_BREAK
 #SBATCH --account=scjp1

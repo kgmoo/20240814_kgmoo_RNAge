@@ -5,7 +5,7 @@
 
 #SBATCH -J MAST_SM_RNA
 #SBATCH --account=scjp1
-#SBATCH -t 24:00:00
+#SBATCH -t 36:00:00
 #SBATCH --mem 256G
 #SBATCH --output=%u-%j.log
 #SBATCH --error=%u-%j.err
