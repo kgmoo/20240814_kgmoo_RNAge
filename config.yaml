@@ -1,0 +1,11 @@
+atac_counts: ["data/*_FUSIONsnATAC_sce.rds", "_FUSIONsnATAC_sce.rds"]
+#atac_counts: ["data/*.batch.repq0.05.peak_mat.h5ad", ".batch.repq0.05.peak_mat.h5ad"]
+#merged_peaks: ["data/*.batch.repq0.05.merged_peaks.tsv", ".batch.repq0.05.merged_peaks.tsv"] #We just cut straight to the sce, these files don't exist in our case
+#metadata: "/nfs/turbo/umms-scjp/kgmoo/data/kgmoo_MetadataComplete_ATAC.tsv"
+contrasts: ["age"] #, "HFPEF:HFPEF-followup"] #["No-HFPEF:HFPEF", "HFPEF:HFPEF-followup", "No-HFPEF:HFPEF-followup"]
+clusters: ['Type_2a']
+#'Type_1', 'Type_2a', 'Type_2x', 'Endothelial', 'Mesenchymal_Stem_Cell']
+cluster_splits: {"Type_2a": 100}
+#"Type_1": 100, "Type_2a": 100, "Type_2x": 90, "Endothelial": 25, "Mesenchymal_Stem_Cell": 65}
+#"Smooth_Muscle": 35, "Adipocyte": 5, "Neuronal": 5, "Macrophage": 60, "Neuromuscular_junction": 55, "Satellite_Cell": 80, "Muscle_Fiber_Mixed": 80, "T_cell": 80
+#group_kind: ["group"] # I think this refers to HFPEF stuff and can be removed, but it may need to be replaced with something

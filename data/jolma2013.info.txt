@@ -1,0 +1,844 @@
+matrix	tf	symbol	name	ensembl_gene_id
+J0018	BCL6B	BCL6B	B-cell CLL/lymphoma 6, member B	ENSG00000161940
+J0023	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	ENSG00000102974
+J0028	EGR1	EGR1	early growth response 1	ENSG00000120738
+J0033	EGR1	EGR1	early growth response 1	ENSG00000120738
+J0038	EGR2	EGR2	early growth response 2	ENSG00000122877
+J0043	EGR2	EGR2	early growth response 2	ENSG00000122877
+J0048	EGR3	EGR3	early growth response 3	ENSG00000179388
+J0053	EGR4	EGR4	early growth response 4	ENSG00000135625
+J0058	Egr3	EGR3	early growth response 3	ENSG00000179388
+J0063	GLI2	GLI2	GLI family zinc finger 2	ENSG00000074047
+J0068	GLI2	GLI2	GLI family zinc finger 2	ENSG00000074047
+J0073	GLIS1	GLIS1	GLIS family zinc finger 1	ENSG00000174332
+J0078	GLIS2	GLIS2	GLIS family zinc finger 2	ENSG00000126603
+J0083	GLIS3	GLIS3	GLIS family zinc finger 3	ENSG00000107249
+J0088	HIC2	HIC2	hypermethylated in cancer 2	ENSG00000169635
+J0093	HINFP1	HINFP	histone H4 transcription factor	ENSG00000172273
+J0098	HINFP1	HINFP	histone H4 transcription factor	ENSG00000172273
+J0103	HINFP1	HINFP	histone H4 transcription factor	ENSG00000172273
+J0108	Hic1	HIC1	hypermethylated in cancer 1	ENSG00000177374
+J0113	Hic1	HIC1	hypermethylated in cancer 1	ENSG00000177374
+J0118	KLF13	KLF13	Kruppel-like factor 13	ENSG00000169926
+J0123	KLF14	KLF14;SP6	Kruppel-like factor 14;Sp6 transcription factor	ENSG00000266265;ENSG00000189120
+J0128	KLF16	KLF16	Kruppel-like factor 16	ENSG00000129911
+J0133	Klf12	KLF12	Kruppel-like factor 12	ENSG00000118922
+J0138	PRDM1	PRDM1	PR domain containing 1, with ZNF domain	ENSG00000057657
+J0143	SCRT1	SCRT1	scratch family zinc finger 1	ENSG00000261678
+J0148	SCRT2	SCRT2	scratch family zinc finger 2	ENSG00000215397
+J0153	SNAI2	SNAI2	snail family zinc finger 2	ENSG00000019549
+J0158	SP1	SP1	Sp1 transcription factor	ENSG00000185591
+J0163	SP3	SP3	Sp3 transcription factor	ENSG00000172845
+J0168	SP4	SP4	Sp4 transcription factor	ENSG00000105866
+J0173	SP8	SP8	Sp8 transcription factor	ENSG00000164651
+J0178	YY1	YY1	YY1 transcription factor	ENSG00000100811
+J0183	YY2	YY2	YY2 transcription factor	ENSG00000230797
+J0188	YY2	YY2	YY2 transcription factor	ENSG00000230797
+J0193	ZBED1	ZBED1	zinc finger, BED-type containing 1	ENSG00000214717
+J0198	ZBTB7A	ZBTB7A	zinc finger and BTB domain containing 7A	ENSG00000178951
+J0203	ZBTB7B	ZBTB7B	zinc finger and BTB domain containing 7B	ENSG00000160685
+J0208	ZBTB7C	ZBTB7C	zinc finger and BTB domain containing 7C	ENSG00000184828
+J0213	ZIC1	ZIC1	Zic family member 1	ENSG00000152977
+J0218	ZIC3	ZIC3	Zic family member 3	ENSG00000156925
+J0223	ZIC4	ZIC4	Zic family member 4	ENSG00000174963
+J0228	ZNF143	ZNF143	zinc finger protein 143	ENSG00000166478
+J0233	ZNF238	ZBTB18	zinc finger and BTB domain containing 18	ENSG00000179456
+J0238	ZNF238	ZBTB18	zinc finger and BTB domain containing 18	ENSG00000179456
+J0243	ZNF306	ZKSCAN3	zinc finger with KRAB and SCAN domains 3	ENSG00000189298
+J0248	ZNF410	ZNF410	zinc finger protein 410	ENSG00000119725
+J0253	ZNF524	ZNF524	zinc finger protein 524	ENSG00000171443
+J0258	ZNF524	ZNF524	zinc finger protein 524	ENSG00000171443
+J0263	ZNF740	ZNF740	zinc finger protein 740	ENSG00000139651
+J0268	ZNF740	ZNF740	zinc finger protein 740	ENSG00000139651
+J0273	ZNF75A	ZNF75A	zinc finger protein 75a	ENSG00000162086
+J0278	ZNF784	ZNF784	zinc finger protein 784	ENSG00000179922
+J0283	ZSCAN4	ZSCAN4	zinc finger and SCAN domain containing 4	ENSG00000180532
+J0288	Zfp652			
+J0293	Zfp740	ZNF740	zinc finger protein 740	ENSG00000139651
+J0298	Zic3	ZIC3	Zic family member 3	ENSG00000156925
+J0303	CENPB	CENPB	centromere protein B, 80kDa	ENSG00000125817
+J0308	GRHL1	GRHL1	grainyhead-like 1 (Drosophila)	ENSG00000134317
+J0313	GRHL1	GRHL1	grainyhead-like 1 (Drosophila)	ENSG00000134317
+J0318	GRHL1	GRHL1	grainyhead-like 1 (Drosophila)	ENSG00000134317
+J0323	TFCP2	TFCP2	transcription factor CP2	ENSG00000135457
+J0328	TFCP2	TFCP2	transcription factor CP2	ENSG00000135457
+J0333	CUX1	CUX1	cut-like homeobox 1	ENSG00000257923
+J0338	CUX1	CUX1	cut-like homeobox 1	ENSG00000257923
+J0343	CUX1	CUX1	cut-like homeobox 1	ENSG00000257923
+J0348	CUX2	CUX2	cut-like homeobox 2	ENSG00000111249
+J0353	CUX2	CUX2	cut-like homeobox 2	ENSG00000111249
+J0358	ONECUT1	ONECUT1	one cut homeobox 1	ENSG00000169856
+J0363	ONECUT1	ONECUT1	one cut homeobox 1	ENSG00000169856
+J0368	ONECUT2	ONECUT2	one cut homeobox 2	ENSG00000119547
+J0373	ONECUT3	ONECUT3	one cut homeobox 3	ENSG00000205922
+J0378	E2F2	E2F2	E2F transcription factor 2	ENSG00000007968
+J0383	E2F2	E2F2	E2F transcription factor 2	ENSG00000007968
+J0388	E2F3	E2F3	E2F transcription factor 3	ENSG00000112242
+J0393	E2F3	E2F3	E2F transcription factor 3	ENSG00000112242
+J0398	E2F3	E2F3	E2F transcription factor 3	ENSG00000112242
+J0403	E2F7	E2F7	E2F transcription factor 7	ENSG00000165891
+J0408	EBF1	EBF1	early B-cell factor 1	ENSG00000164330
+J0413	EHF	EHF	ets homologous factor	ENSG00000135373
+J0418	ELF1	ELF1;ELOF1	E74-like factor 1 (ets domain transcription factor);elongation factor 1 homolog (S. cerevisiae)	ENSG00000120690;ENSG00000130165
+J0423	ELF1	ELF1;ELOF1	E74-like factor 1 (ets domain transcription factor);elongation factor 1 homolog (S. cerevisiae)	ENSG00000120690;ENSG00000130165
+J0428	ELF3	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	ENSG00000163435
+J0433	ELF3	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	ENSG00000163435
+J0438	ELF4	ELF4	E74-like factor 4 (ets domain transcription factor)	ENSG00000102034
+J0443	ELF5	ELF5	E74-like factor 5 (ets domain transcription factor)	ENSG00000135374
+J0448	ELF5	ELF5	E74-like factor 5 (ets domain transcription factor)	ENSG00000135374
+J0453	ELK1	ELK1;KCNH4	ELK1, member of ETS oncogene family;potassium channel, voltage gated eag related subfamily H, member 4	ENSG00000126767;ENSG00000089558
+J0458	ELK1	ELK1;KCNH4	ELK1, member of ETS oncogene family;potassium channel, voltage gated eag related subfamily H, member 4	ENSG00000126767;ENSG00000089558
+J0463	ELK1	ELK1;KCNH4	ELK1, member of ETS oncogene family;potassium channel, voltage gated eag related subfamily H, member 4	ENSG00000126767;ENSG00000089558
+J0468	ELK3	ELK3;KCNH8	ELK3, ETS-domain protein (SRF accessory protein 2);potassium channel, voltage gated eag related subfamily H, member 8	ENSG00000111145;ENSG00000183960
+J0473	ELK4	ELK4	ELK4, ETS-domain protein (SRF accessory protein 1)	ENSG00000158711
+J0478	ERF	ERF;ETF1	Ets2 repressor factor;eukaryotic translation termination factor 1	ENSG00000105722;ENSG00000120705
+J0483	ERG	ERG	v-ets avian erythroblastosis virus E26 oncogene homolog	ENSG00000157554
+J0488	ERG	ERG	v-ets avian erythroblastosis virus E26 oncogene homolog	ENSG00000157554
+J0493	ERG	ERG	v-ets avian erythroblastosis virus E26 oncogene homolog	ENSG00000157554
+J0498	ERG	ERG	v-ets avian erythroblastosis virus E26 oncogene homolog	ENSG00000157554
+J0503	ETS1	ETS1	v-ets avian erythroblastosis virus E26 oncogene homolog 1	ENSG00000134954
+J0508	ETS1	ETS1	v-ets avian erythroblastosis virus E26 oncogene homolog 1	ENSG00000134954
+J0513	ETS1	ETS1	v-ets avian erythroblastosis virus E26 oncogene homolog 1	ENSG00000134954
+J0518	ETS1	ETS1	v-ets avian erythroblastosis virus E26 oncogene homolog 1	ENSG00000134954
+J0523	ETV1	ETV1	ets variant 1	ENSG00000006468
+J0528	ETV2	ETV2	ets variant 2	ENSG00000105672
+J0533	ETV3	ETV3	ets variant 3	ENSG00000117036
+J0538	ETV4	ETV4	ets variant 4	ENSG00000175832
+J0543	ETV5	ETV5	ets variant 5	ENSG00000244405
+J0548	ETV6	ETV6	ets variant 6	ENSG00000139083
+J0553	ETV6	ETV6	ets variant 6	ENSG00000139083
+J0558	Elf5	ELF5	E74-like factor 5 (ets domain transcription factor)	ENSG00000135374
+J0563	Elk3	ELK3;KCNH8	ELK3, ETS-domain protein (SRF accessory protein 2);potassium channel, voltage gated eag related subfamily H, member 8	ENSG00000111145;ENSG00000183960
+J0568	FEV	FEV	FEV (ETS oncogene family)	ENSG00000163497
+J0573	FLI1	FLI1;FLII	Fli-1 proto-oncogene, ETS transcription factor;flightless I homolog (Drosophila)	ENSG00000151702;ENSG00000177731
+J0578	FLI1	FLI1;FLII	Fli-1 proto-oncogene, ETS transcription factor;flightless I homolog (Drosophila)	ENSG00000151702;ENSG00000177731
+J0583	FLI1	FLI1;FLII	Fli-1 proto-oncogene, ETS transcription factor;flightless I homolog (Drosophila)	ENSG00000151702;ENSG00000177731
+J0588	FLI1	FLI1;FLII	Fli-1 proto-oncogene, ETS transcription factor;flightless I homolog (Drosophila)	ENSG00000151702;ENSG00000177731
+J0593	GABPA	GABPA	GA binding protein transcription factor, alpha subunit 60kDa	ENSG00000154727
+J0598	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor	ENSG00000124664
+J0603	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor	ENSG00000124664
+J0608	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor	ENSG00000124664
+J0613	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor	ENSG00000124664
+J0618	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor	ENSG00000124664
+J0623	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor	ENSG00000124664
+J0628	SPI1	SPI1	Spi-1 proto-oncogene	ENSG00000066336
+J0633	SPIB	SPIB	Spi-B transcription factor (Spi-1/PU.1 related)	ENSG00000269404
+J0638	SPIC	SPIC	Spi-C transcription factor (Spi-1/PU.1 related)	ENSG00000166211
+J0643	Spic	SPIC	Spi-C transcription factor (Spi-1/PU.1 related)	ENSG00000166211
+J0648	GATA3	GATA3	GATA binding protein 3	ENSG00000107485
+J0653	GATA3	GATA3	GATA binding protein 3	ENSG00000107485
+J0658	GATA4	GATA4	GATA binding protein 4	ENSG00000136574
+J0663	GATA5	GATA5	GATA binding protein 5	ENSG00000130700
+J0668	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	ENSG00000137270
+J0673	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	ENSG00000137270
+J0678	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	ENSG00000137270
+J0683	GCM2	GCM2	glial cells missing homolog 2 (Drosophila)	ENSG00000124827
+J0688	LEF1	LEF1	lymphoid enhancer-binding factor 1	ENSG00000138795
+J0693	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J0698	TCF7L1	TCF7L1	transcription factor 7-like 1 (T-cell specific, HMG-box)	ENSG00000152284
+J0703	Tcf7	TCF7	transcription factor 7 (T-cell specific, HMG-box)	ENSG00000081059
+J0708	HOMEZ	HOMEZ	homeobox and leucine zipper encoding	ENSG00000215271
+J0713	HSF1	HSF1	heat shock transcription factor 1	ENSG00000185122
+J0718	HSF1	HSF1	heat shock transcription factor 1	ENSG00000185122
+J0723	HSF2	HSF2	heat shock transcription factor 2	ENSG00000025156
+J0728	HSF4	HSF4	heat shock transcription factor 4	ENSG00000102878
+J0733	HSFY2	HSFY2	heat shock transcription factor, Y linked 2	ENSG00000169953
+J0738	HSFY2	HSFY2	heat shock transcription factor, Y linked 2	ENSG00000169953
+J0743	HSFY2	HSFY2	heat shock transcription factor, Y linked 2	ENSG00000169953
+J0748	IRF3	IRF3	interferon regulatory factor 3	ENSG00000126456
+J0753	IRF4	IRF4	interferon regulatory factor 4	ENSG00000137265
+J0758	IRF5	IRF5	interferon regulatory factor 5	ENSG00000128604
+J0763	IRF5	IRF5	interferon regulatory factor 5	ENSG00000128604
+J0768	IRF7	IRF7	interferon regulatory factor 7	ENSG00000185507
+J0773	IRF7	IRF7	interferon regulatory factor 7	ENSG00000185507
+J0778	IRF8	IRF8	interferon regulatory factor 8	ENSG00000140968
+J0783	IRF8	IRF8	interferon regulatory factor 8	ENSG00000140968
+J0788	IRF9	IRF9	interferon regulatory factor 9	ENSG00000213928
+J0793	MEF2A	MEF2A	myocyte enhancer factor 2A	ENSG00000068305
+J0798	MEF2B	MEF2B	myocyte enhancer factor 2B	ENSG00000213999
+J0803	MEF2D	MEF2D	myocyte enhancer factor 2D	ENSG00000116604
+J0808	SRF	SRF	serum response factor (c-fos serum response element-binding transcription factor)	ENSG00000112658
+J0813	SRF	SRF	serum response factor (c-fos serum response element-binding transcription factor)	ENSG00000112658
+J0818	SMAD3	SMAD3	SMAD family member 3	ENSG00000166949
+J0823	MEIS1	MEIS1	Meis homeobox 1	ENSG00000143995
+J0828	MEIS2	MEIS2	Meis homeobox 2	ENSG00000134138
+J0833	MEIS2	MEIS2	Meis homeobox 2	ENSG00000134138
+J0838	MEIS3	MEIS3	Meis homeobox 3	ENSG00000105419
+J0843	MEIS3	MEIS3	Meis homeobox 3	ENSG00000105419
+J0848	Meis2	MEIS2	Meis homeobox 2	ENSG00000134138
+J0853	Meis2	MEIS2	Meis homeobox 2	ENSG00000134138
+J0858	Meis3	MEIS3	Meis homeobox 3	ENSG00000105419
+J0863	Meis3	MEIS3	Meis homeobox 3	ENSG00000105419
+J0868	PKNOX1	PKNOX1	PBX/knotted 1 homeobox 1	ENSG00000160199
+J0873	PKNOX2	PKNOX2	PBX/knotted 1 homeobox 2	ENSG00000165495
+J0878	Pknox2	PKNOX2	PBX/knotted 1 homeobox 2	ENSG00000165495
+J0883	TGIF1	TGIF1	TGFB-induced factor homeobox 1	ENSG00000177426
+J0888	TGIF2LX	TGIF2LX	TGFB-induced factor homeobox 2-like, X-linked	ENSG00000153779
+J0893	TGIF2	TGIF2	TGFB-induced factor homeobox 2	ENSG00000118707
+J0898	MYBL1	MYBL1	v-myb avian myeloblastosis viral oncogene homolog-like 1	ENSG00000185697
+J0903	MYBL1	MYBL1	v-myb avian myeloblastosis viral oncogene homolog-like 1	ENSG00000185697
+J0908	MYBL1	MYBL1	v-myb avian myeloblastosis viral oncogene homolog-like 1	ENSG00000185697
+J0913	MYBL1	MYBL1	v-myb avian myeloblastosis viral oncogene homolog-like 1	ENSG00000185697
+J0918	MYBL2	MYBL2	v-myb avian myeloblastosis viral oncogene homolog-like 2	ENSG00000101057
+J0923	MYBL2	MYBL2	v-myb avian myeloblastosis viral oncogene homolog-like 2	ENSG00000101057
+J0928	MYBL2	MYBL2	v-myb avian myeloblastosis viral oncogene homolog-like 2	ENSG00000101057
+J0933	MYBL2	MYBL2	v-myb avian myeloblastosis viral oncogene homolog-like 2	ENSG00000101057
+J0938	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	ENSG00000102908
+J0943	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	ENSG00000131196
+J0948	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	ENSG00000131196
+J0953	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	ENSG00000131196
+J0958	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	ENSG00000109320
+J0963	NFKB2	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	ENSG00000077150
+J0968	NFIA	NFIA	nuclear factor I/A	ENSG00000162599
+J0973	NFIB	NFIB	nuclear factor I/B	ENSG00000147862
+J0978	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	ENSG00000008441
+J0983	NRF1	NRF1	nuclear respiratory factor 1	ENSG00000106459
+J0988	PAX1	PAX1	paired box 1	ENSG00000125813
+J0993	PAX2	PAX2	paired box 2	ENSG00000075891
+J0998	PAX3	PAX3	paired box 3	ENSG00000135903
+J1003	PAX4	PAX4	paired box 4	ENSG00000106331
+J1008	PAX4	PAX4	paired box 4	ENSG00000106331
+J1013	PAX5	PAX5	paired box 5	ENSG00000196092
+J1018	PAX6	PAX6	paired box 6	ENSG00000007372
+J1023	PAX7	PAX7	paired box 7	ENSG00000009709
+J1028	PAX7	PAX7	paired box 7	ENSG00000009709
+J1033	PAX9	PAX9	paired box 9	ENSG00000198807
+J1038	POU1F1	POU1F1	POU class 1 homeobox 1	ENSG00000064835
+J1043	POU1F1	POU1F1	POU class 1 homeobox 1	ENSG00000064835
+J1048	POU2F1	POU2F1	POU class 2 homeobox 1	ENSG00000143190
+J1053	POU2F1	POU2F1	POU class 2 homeobox 1	ENSG00000143190
+J1058	POU2F2	POU2F2	POU class 2 homeobox 2	ENSG00000028277
+J1063	POU2F2	POU2F2	POU class 2 homeobox 2	ENSG00000028277
+J1068	POU2F3	POU2F3	POU class 2 homeobox 3	ENSG00000137709
+J1073	POU2F3	POU2F3	POU class 2 homeobox 3	ENSG00000137709
+J1078	POU3F1	POU3F1	POU class 3 homeobox 1	ENSG00000185668
+J1083	POU3F1	POU3F1	POU class 3 homeobox 1	ENSG00000185668
+J1088	POU3F2	POU3F2	POU class 3 homeobox 2	ENSG00000184486
+J1093	POU3F2	POU3F2	POU class 3 homeobox 2	ENSG00000184486
+J1098	POU3F3	POU3F3	POU class 3 homeobox 3	ENSG00000198914
+J1103	POU3F3	POU3F3	POU class 3 homeobox 3	ENSG00000198914
+J1108	POU3F3	POU3F3	POU class 3 homeobox 3	ENSG00000198914
+J1113	POU3F4	POU3F4	POU class 3 homeobox 4	ENSG00000196767
+J1118	POU3F4	POU3F4	POU class 3 homeobox 4	ENSG00000196767
+J1123	POU4F1	POU4F1	POU class 4 homeobox 1	ENSG00000152192
+J1128	POU4F2	POU4F2	POU class 4 homeobox 2	ENSG00000151615
+J1133	POU4F2	POU4F2	POU class 4 homeobox 2	ENSG00000151615
+J1138	POU4F3	POU4F3	POU class 4 homeobox 3	ENSG00000091010
+J1143	POU5F1P1	POU5F1B	POU class 5 homeobox 1B	ENSG00000212993
+J1148	POU5F1P1	POU5F1B	POU class 5 homeobox 1B	ENSG00000212993
+J1153	POU6F2	POU6F2	POU class 6 homeobox 2	ENSG00000106536
+J1158	POU6F2	POU6F2	POU class 6 homeobox 2	ENSG00000106536
+J1163	POU6F2	POU6F2	POU class 6 homeobox 2	ENSG00000106536
+J1168	Pou2f2	POU2F2	POU class 2 homeobox 2	ENSG00000028277
+J1173	Pou2f2	POU2F2	POU class 2 homeobox 2	ENSG00000028277
+J1178	PROX1	PROX1	prospero homeobox 1	ENSG00000117707
+J1183	RFX2	RFX2	regulatory factor X, 2 (influences HLA class II expression)	ENSG00000087903
+J1188	RFX2	RFX2	regulatory factor X, 2 (influences HLA class II expression)	ENSG00000087903
+J1193	RFX3	RFX3	regulatory factor X, 3 (influences HLA class II expression)	ENSG00000080298
+J1198	RFX3	RFX3	regulatory factor X, 3 (influences HLA class II expression)	ENSG00000080298
+J1203	RFX4	RFX4	regulatory factor X, 4 (influences HLA class II expression)	ENSG00000111783
+J1208	RFX4	RFX4	regulatory factor X, 4 (influences HLA class II expression)	ENSG00000111783
+J1213	RFX5	RFX5	regulatory factor X, 5 (influences HLA class II expression)	ENSG00000143390
+J1218	RFX5	RFX5	regulatory factor X, 5 (influences HLA class II expression)	ENSG00000143390
+J1223	Rfx2	RFX2	regulatory factor X, 2 (influences HLA class II expression)	ENSG00000087903
+J1228	Rfx2	RFX2	regulatory factor X, 2 (influences HLA class II expression)	ENSG00000087903
+J1233	Rfx3	RFX3	regulatory factor X, 3 (influences HLA class II expression)	ENSG00000080298
+J1238	RUNX2	RUNX2	runt-related transcription factor 2	ENSG00000124813
+J1243	RUNX2	RUNX2	runt-related transcription factor 2	ENSG00000124813
+J1248	RUNX2	RUNX2	runt-related transcription factor 2	ENSG00000124813
+J1253	RUNX3	RUNX3	runt-related transcription factor 3	ENSG00000020633
+J1258	RUNX3	RUNX3	runt-related transcription factor 3	ENSG00000020633
+J1263	RUNX3	RUNX3	runt-related transcription factor 3	ENSG00000020633
+J1268	RUNX3	RUNX3	runt-related transcription factor 3	ENSG00000020633
+J1273	GMEB2	GMEB2	glucocorticoid modulatory element binding protein 2	ENSG00000101216
+J1278	GMEB2	GMEB2	glucocorticoid modulatory element binding protein 2	ENSG00000101216
+J1283	GMEB2	GMEB2	glucocorticoid modulatory element binding protein 2	ENSG00000101216
+J1288	EOMES	EOMES	eomesodermin	ENSG00000163508
+J1293	EOMES	EOMES	eomesodermin	ENSG00000163508
+J1298	MGA	MGA;MGAM	MGA, MAX dimerization protein;maltase-glucoamylase	ENSG00000174197;ENSG00000257335
+J1303	MGA	MGA;MGAM	MGA, MAX dimerization protein;maltase-glucoamylase	ENSG00000174197;ENSG00000257335
+J1308	MGA	MGA;MGAM	MGA, MAX dimerization protein;maltase-glucoamylase	ENSG00000174197;ENSG00000257335
+J1313	TBR1	TBR1	T-box, brain, 1	ENSG00000136535
+J1318	TBR1	TBR1	T-box, brain, 1	ENSG00000136535
+J1323	TBX15	TBX15	T-box 15	ENSG00000092607
+J1328	TBX15	TBX15	T-box 15	ENSG00000092607
+J1333	TBX19	TBX19	T-box 19	ENSG00000143178
+J1338	TBX1	TBX1	T-box 1	ENSG00000184058
+J1343	TBX1	TBX1	T-box 1	ENSG00000184058
+J1348	TBX1	TBX1	T-box 1	ENSG00000184058
+J1353	TBX1	TBX1	T-box 1	ENSG00000184058
+J1358	TBX1	TBX1	T-box 1	ENSG00000184058
+J1363	TBX20	TBX20	T-box 20	ENSG00000164532
+J1368	TBX20	TBX20	T-box 20	ENSG00000164532
+J1373	TBX20	TBX20	T-box 20	ENSG00000164532
+J1378	TBX20	TBX20	T-box 20	ENSG00000164532
+J1383	TBX21	TBX21	T-box 21	ENSG00000073861
+J1388	TBX21	TBX21	T-box 21	ENSG00000073861
+J1393	TBX21	TBX21	T-box 21	ENSG00000073861
+J1398	TBX21	TBX21	T-box 21	ENSG00000073861
+J1403	TBX21	TBX21	T-box 21	ENSG00000073861
+J1408	TBX21	TBX21	T-box 21	ENSG00000073861
+J1413	TBX2	TBX2	T-box 2	ENSG00000121068
+J1418	TBX2	TBX2	T-box 2	ENSG00000121068
+J1423	TBX4	TBX4	T-box 4	ENSG00000121075
+J1428	TBX4	TBX4	T-box 4	ENSG00000121075
+J1433	TBX5	TBX5	T-box 5	ENSG00000089225
+J1438	TBX5	TBX5	T-box 5	ENSG00000089225
+J1443	T	T	T, brachyury homolog (mouse)	ENSG00000164458
+J1448	TEAD1	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)	ENSG00000187079
+J1453	TEAD1	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)	ENSG00000187079
+J1458	TEAD3	TEAD3	TEA domain family member 3	ENSG00000007866
+J1463	TEAD3	TEAD3	TEA domain family member 3	ENSG00000007866
+J1468	TEAD4	TEAD4	TEA domain family member 4	ENSG00000197905
+J1473	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	ENSG00000137203
+J1478	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	ENSG00000137203
+J1483	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	ENSG00000137203
+J1488	TFAP2B	TFAP2B	transcription factor AP-2 beta (activating enhancer binding protein 2 beta)	ENSG00000008196
+J1493	TFAP2B	TFAP2B	transcription factor AP-2 beta (activating enhancer binding protein 2 beta)	ENSG00000008196
+J1498	TFAP2B	TFAP2B	transcription factor AP-2 beta (activating enhancer binding protein 2 beta)	ENSG00000008196
+J1503	TFAP2C	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	ENSG00000087510
+J1508	TFAP2C	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	ENSG00000087510
+J1513	TFAP2C	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	ENSG00000087510
+J1518	TFAP2C	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	ENSG00000087510
+J1523	TFAP2C	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	ENSG00000087510
+J1528	TFAP2C	TFAP2C	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)	ENSG00000087510
+J1533	Tcfap2a			
+J1538	Tcfap2a			
+J1543	Tcfap2a			
+J1548	ARNTL	ARNTL	aryl hydrocarbon receptor nuclear translocator-like	ENSG00000133794
+J1553	Ascl2	ASCL2	achaete-scute family bHLH transcription factor 2	ENSG00000183734
+J1558	Atoh1	ATOH1	atonal homolog 1 (Drosophila)	ENSG00000172238
+J1563	BHLHA15	BHLHA15	basic helix-loop-helix family, member a15	ENSG00000180535
+J1568	BHLHB2	BHLHE40	basic helix-loop-helix family, member e40	ENSG00000134107
+J1573	BHLHB3	BHLHE41	basic helix-loop-helix family, member e41	ENSG00000123095
+J1578	BHLHE22	BHLHE22	basic helix-loop-helix family, member e22	ENSG00000180828
+J1583	BHLHE23	BHLHE23	basic helix-loop-helix family, member e23	ENSG00000125533
+J1588	BHLHE41	BHLHE41	basic helix-loop-helix family, member e41	ENSG00000123095
+J1593	Bhlhb2	BHLHE40	basic helix-loop-helix family, member e40	ENSG00000134107
+J1598	CLOCK	CLOCK	clock circadian regulator	ENSG00000134852
+J1603	FIGLA	FIGLA	folliculogenesis specific basic helix-loop-helix	ENSG00000183733
+J1608	HES5	HES5	hes family bHLH transcription factor 5	ENSG00000197921
+J1613	HES7	HES7	hes family bHLH transcription factor 7	ENSG00000179111
+J1618	HEY1	HEY1	hes-related family bHLH transcription factor with YRPW motif 1	ENSG00000164683
+J1623	HEY2	HEY2	hes-related family bHLH transcription factor with YRPW motif 2	ENSG00000135547
+J1628	HEY2	HEY2	hes-related family bHLH transcription factor with YRPW motif 2	ENSG00000135547
+J1633	ID4	ID4	inhibitor of DNA binding 4, dominant negative helix-loop-helix protein	ENSG00000172201
+J1638	MAX	MAX	MYC associated factor X	ENSG00000125952
+J1643	MAX	MAX	MYC associated factor X	ENSG00000125952
+J1648	MESP1	MESP1	mesoderm posterior basic helix-loop-helix transcription factor 1	ENSG00000166823
+J1653	MLXIPL	MLXIPL	MLX interacting protein-like	ENSG00000009950
+J1658	MLX	MLX	MLX, MAX dimerization protein	ENSG00000108788
+J1663	MNT	MNT	MAX network transcriptional repressor	ENSG00000070444
+J1668	MYF6	MYF6	myogenic factor 6 (herculin)	ENSG00000111046
+J1673	Mlx	MLX	MLX, MAX dimerization protein	ENSG00000108788
+J1678	NEUROD2	NEUROD2	neuronal differentiation 2	ENSG00000171532
+J1683	NEUROG2	NEUROG2	neurogenin 2	ENSG00000178403
+J1688	NEUROG2	NEUROG2	neurogenin 2	ENSG00000178403
+J1693	NHLH1	NHLH1	nescient helix loop helix 1	ENSG00000171786
+J1698	NHLH1	NHLH1	nescient helix loop helix 1	ENSG00000171786
+J1703	OLIG1	OLIG1	oligodendrocyte transcription factor 1	ENSG00000184221
+J1708	OLIG2	OLIG2	oligodendrocyte lineage transcription factor 2	ENSG00000205927
+J1713	OLIG2	OLIG2	oligodendrocyte lineage transcription factor 2	ENSG00000205927
+J1718	OLIG3	OLIG3	oligodendrocyte transcription factor 3	ENSG00000177468
+J1723	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	ENSG00000198911
+J1728	Srebf1	SREBF1	sterol regulatory element binding transcription factor 1	ENSG00000072310
+J1733	TCF3	TCF3;TCF7L1	transcription factor 3;transcription factor 7-like 1 (T-cell specific, HMG-box)	ENSG00000071564;ENSG00000152284
+J1738	TCF4	TCF4;TCF7L2	transcription factor 4;transcription factor 7-like 2 (T-cell specific, HMG-box)	ENSG00000196628;ENSG00000148737
+J1743	TCF4	TCF4;TCF7L2	transcription factor 4;transcription factor 7-like 2 (T-cell specific, HMG-box)	ENSG00000196628;ENSG00000148737
+J1748	TFAP4	TFAP4	transcription factor AP-4 (activating enhancer binding protein 4)	ENSG00000090447
+J1753	TFAP4	TFAP4	transcription factor AP-4 (activating enhancer binding protein 4)	ENSG00000090447
+J1758	TFE3	TFE3	transcription factor binding to IGHM enhancer 3	ENSG00000068323
+J1763	TFEB	TFEB	transcription factor EB	ENSG00000112561
+J1768	Tcf21	TCF21	transcription factor 21	ENSG00000118526
+J1773	USF1	USF1	upstream transcription factor 1	ENSG00000158773
+J1778	ATF4	ATF4	activating transcription factor 4	ENSG00000128272
+J1783	ATF7	ATF7	activating transcription factor 7	ENSG00000170653
+J1788	Atf4	ATF4	activating transcription factor 4	ENSG00000128272
+J1793	BATF3	BATF3	basic leucine zipper transcription factor, ATF-like 3	ENSG00000123685
+J1798	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	ENSG00000172216
+J1803	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	ENSG00000172216
+J1808	CEBPD	CEBPD	CCAAT/enhancer binding protein (C/EBP), delta	ENSG00000221869
+J1813	CEBPE	CEBPE	CCAAT/enhancer binding protein (C/EBP), epsilon	ENSG00000092067
+J1818	CEBPG	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	ENSG00000153879
+J1823	CEBPG	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	ENSG00000153879
+J1828	CREB3L1	CREB3L1	cAMP responsive element binding protein 3-like 1	ENSG00000157613
+J1833	CREB3L1	CREB3L1	cAMP responsive element binding protein 3-like 1	ENSG00000157613
+J1838	CREB3L1	CREB3L1	cAMP responsive element binding protein 3-like 1	ENSG00000157613
+J1843	CREB3	CREB3;CREB3L4	cAMP responsive element binding protein 3;cAMP responsive element binding protein 3-like 4	ENSG00000107175;ENSG00000143578
+J1848	CREB3	CREB3;CREB3L4	cAMP responsive element binding protein 3;cAMP responsive element binding protein 3-like 4	ENSG00000107175;ENSG00000143578
+J1853	Cebpb	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	ENSG00000172216
+J1858	Creb3l2	CREB3L2	cAMP responsive element binding protein 3-like 2	ENSG00000182158
+J1863	Creb3l2	CREB3L2	cAMP responsive element binding protein 3-like 2	ENSG00000182158
+J1868	Creb5	CREB5	cAMP responsive element binding protein 5	ENSG00000146592
+J1873	DBP	DBP;GC;HSD17B4	D site of albumin promoter (albumin D-box) binding protein;group-specific component (vitamin D binding protein);hydroxysteroid (17-beta) dehydrogenase 4	ENSG00000105516;ENSG00000145321;ENSG00000133835
+J1878	DBP	DBP;GC;HSD17B4	D site of albumin promoter (albumin D-box) binding protein;group-specific component (vitamin D binding protein);hydroxysteroid (17-beta) dehydrogenase 4	ENSG00000105516;ENSG00000145321;ENSG00000133835
+J1883	Dbp	DBP;GC;HSD17B4	D site of albumin promoter (albumin D-box) binding protein;group-specific component (vitamin D binding protein);hydroxysteroid (17-beta) dehydrogenase 4	ENSG00000105516;ENSG00000145321;ENSG00000133835
+J1888	HLF	HLF	hepatic leukemia factor	ENSG00000108924
+J1893	Hlf	HLF	hepatic leukemia factor	ENSG00000108924
+J1898	JDP2	JDP2	Jun dimerization protein 2	ENSG00000140044
+J1903	JDP2	JDP2	Jun dimerization protein 2	ENSG00000140044
+J1908	JDP2	JDP2	Jun dimerization protein 2	ENSG00000140044
+J1913	JDP2	JDP2	Jun dimerization protein 2	ENSG00000140044
+J1918	Jdp2	JDP2	Jun dimerization protein 2	ENSG00000140044
+J1923	Jdp2	JDP2	Jun dimerization protein 2	ENSG00000140044
+J1928	MAFF	MAFF	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog F	ENSG00000185022
+J1933	MAFG	MAFG	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog G	ENSG00000197063
+J1938	MAFK	MAFK	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog K	ENSG00000198517
+J1943	MAFK	MAFK	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog K	ENSG00000198517
+J1948	MAFK	MAFK	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog K	ENSG00000198517
+J1953	MAFK	MAFK	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog K	ENSG00000198517
+J1958	Mafb	MAFB	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B	ENSG00000204103
+J1963	Mafb	MAFB	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B	ENSG00000204103
+J1968	Mafb	MAFB	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B	ENSG00000204103
+J1973	NFE2	NFE2	nuclear factor, erythroid 2	ENSG00000123405
+J1978	NFIL3	NFIL3	nuclear factor, interleukin 3 regulated	ENSG00000165030
+J1983	NRL	NRL	neural retina leucine zipper	ENSG00000129535
+J1988	TEF	TEF	thyrotrophic embryonic factor	ENSG00000167074
+J1993	TEF	TEF	thyrotrophic embryonic factor	ENSG00000167074
+J1998	XBP1	XBP1	X-box binding protein 1	ENSG00000100219
+J2003	XBP1	XBP1	X-box binding protein 1	ENSG00000100219
+J2008	FOXB1	FOXB1	forkhead box B1	ENSG00000171956
+J2013	FOXB1	FOXB1	forkhead box B1	ENSG00000171956
+J2018	FOXB1	FOXB1	forkhead box B1	ENSG00000171956
+J2023	FOXB1	FOXB1	forkhead box B1	ENSG00000171956
+J2028	FOXC1	FOXC1	forkhead box C1	ENSG00000054598
+J2033	FOXC1	FOXC1	forkhead box C1	ENSG00000054598
+J2038	FOXC1	FOXC1	forkhead box C1	ENSG00000054598
+J2043	FOXC2	FOXC2	forkhead box C2	ENSG00000176692
+J2048	FOXC2	FOXC2	forkhead box C2	ENSG00000176692
+J2053	FOXC2	FOXC2	forkhead box C2	ENSG00000176692
+J2058	FOXD2	FOXD2	forkhead box D2	ENSG00000186564
+J2063	FOXD2	FOXD2	forkhead box D2	ENSG00000186564
+J2068	FOXD3	FOXD3	forkhead box D3	ENSG00000187140
+J2073	FOXD3	FOXD3	forkhead box D3	ENSG00000187140
+J2078	FOXG1	FOXG1	forkhead box G1	ENSG00000176165
+J2083	FOXG1	FOXG1	forkhead box G1	ENSG00000176165
+J2088	FOXI1	FOXI1	forkhead box I1	ENSG00000168269
+J2093	FOXI1	FOXI1	forkhead box I1	ENSG00000168269
+J2098	FOXJ2	FOXJ2	forkhead box J2	ENSG00000065970
+J2103	FOXJ2	FOXJ2	forkhead box J2	ENSG00000065970
+J2108	FOXJ2	FOXJ2	forkhead box J2	ENSG00000065970
+J2113	FOXJ3	FOXJ3	forkhead box J3	ENSG00000198815
+J2118	FOXJ3	FOXJ3	forkhead box J3	ENSG00000198815
+J2123	FOXJ3	FOXJ3	forkhead box J3	ENSG00000198815
+J2128	FOXK1	FOXK1	forkhead box K1	ENSG00000164916
+J2133	FOXL1	FOXL1	forkhead box L1	ENSG00000176678
+J2138	FOXL1	FOXL1	forkhead box L1	ENSG00000176678
+J2143	FOXO1	FOXO1	forkhead box O1	ENSG00000150907
+J2148	FOXO1	FOXO1	forkhead box O1	ENSG00000150907
+J2153	FOXO1	FOXO1	forkhead box O1	ENSG00000150907
+J2158	FOXO3	FOXO3	forkhead box O3	ENSG00000118689
+J2163	FOXO3	FOXO3	forkhead box O3	ENSG00000118689
+J2168	FOXO3	FOXO3	forkhead box O3	ENSG00000118689
+J2173	FOXO4	FOXO4	forkhead box O4	ENSG00000184481
+J2178	FOXO4	FOXO4	forkhead box O4	ENSG00000184481
+J2183	FOXO4	FOXO4	forkhead box O4	ENSG00000184481
+J2188	FOXO6	FOXO6	forkhead box O6	ENSG00000204060
+J2193	FOXO6	FOXO6	forkhead box O6	ENSG00000204060
+J2198	FOXO6	FOXO6	forkhead box O6	ENSG00000204060
+J2203	FOXP3	FOXP3	forkhead box P3	ENSG00000049768
+J2208	Foxc1	FOXC1	forkhead box C1	ENSG00000054598
+J2213	Foxc1	FOXC1	forkhead box C1	ENSG00000054598
+J2218	Foxg1	FOXG1	forkhead box G1	ENSG00000176165
+J2223	Foxg1	FOXG1	forkhead box G1	ENSG00000176165
+J2228	Foxg1	FOXG1	forkhead box G1	ENSG00000176165
+J2233	Foxj3	FOXJ3	forkhead box J3	ENSG00000198815
+J2238	Foxj3	FOXJ3	forkhead box J3	ENSG00000198815
+J2243	Foxj3	FOXJ3	forkhead box J3	ENSG00000198815
+J2248	Foxj3	FOXJ3	forkhead box J3	ENSG00000198815
+J2253	Foxk1	FOXK1	forkhead box K1	ENSG00000164916
+J2258	Foxk1	FOXK1	forkhead box K1	ENSG00000164916
+J2263	ALX3	ALX3	ALX homeobox 3	ENSG00000156150
+J2268	ALX3	ALX3	ALX homeobox 3	ENSG00000156150
+J2273	ALX3	ALX3	ALX homeobox 3	ENSG00000156150
+J2278	ALX4	ALX4	ALX homeobox 4	ENSG00000052850
+J2283	ARX	ARX;UBA2	aristaless related homeobox;ubiquitin-like modifier activating enzyme 2	ENSG00000004848;ENSG00000126261
+J2288	Alx1	ALX1	ALX homeobox 1	ENSG00000180318
+J2293	Alx1	ALX1	ALX homeobox 1	ENSG00000180318
+J2298	Alx4	ALX4	ALX homeobox 4	ENSG00000052850
+J2303	Arx	ARX;UBA2	aristaless related homeobox;ubiquitin-like modifier activating enzyme 2	ENSG00000004848;ENSG00000126261
+J2308	BARHL2	BARHL2	BarH-like homeobox 2	ENSG00000143032
+J2313	BARHL2	BARHL2	BarH-like homeobox 2	ENSG00000143032
+J2318	BARHL2	BARHL2	BarH-like homeobox 2	ENSG00000143032
+J2323	BARHL2	BARHL2	BarH-like homeobox 2	ENSG00000143032
+J2328	BARHL2	BARHL2	BarH-like homeobox 2	ENSG00000143032
+J2333	BARHL2	BARHL2	BarH-like homeobox 2	ENSG00000143032
+J2338	BARX1	BARX1	BARX homeobox 1	ENSG00000131668
+J2343	BARX1	BARX1	BARX homeobox 1	ENSG00000131668
+J2348	BSX	BSX	brain-specific homeobox	ENSG00000188909
+J2353	Barhl1	BARHL1	BarH-like homeobox 1	ENSG00000125492
+J2358	Barhl1	BARHL1	BarH-like homeobox 1	ENSG00000125492
+J2363	Barhl1	BARHL1	BarH-like homeobox 1	ENSG00000125492
+J2368	CART1	ALX1;TRAF4	ALX homeobox 1;TNF receptor-associated factor 4	ENSG00000180318;ENSG00000076604
+J2373	CDX1	CDX1	caudal type homeobox 1	ENSG00000113722
+J2378	CDX2	CDX2	caudal type homeobox 2	ENSG00000165556
+J2383	DLX1	DLX1	distal-less homeobox 1	ENSG00000144355
+J2388	DLX2	DLX2	distal-less homeobox 2	ENSG00000115844
+J2393	DLX3	DLX3	distal-less homeobox 3	ENSG00000064195
+J2398	DLX4	DLX4	distal-less homeobox 4	ENSG00000108813
+J2403	DLX5	DLX5	distal-less homeobox 5	ENSG00000105880
+J2408	DLX6	DLX6	distal-less homeobox 6	ENSG00000006377
+J2413	DMBX1	DMBX1	diencephalon/mesencephalon homeobox 1	ENSG00000197587
+J2418	DPRX	DPRX	divergent-paired related homeobox	ENSG00000204595
+J2423	DPRX	DPRX	divergent-paired related homeobox	ENSG00000204595
+J2428	DRGX	DRGX	dorsal root ganglia homeobox	ENSG00000165606
+J2433	DUXA	DUXA	double homeobox A	ENSG00000258873
+J2438	Dlx1	DLX1	distal-less homeobox 1	ENSG00000144355
+J2443	Dlx2	DLX2	distal-less homeobox 2	ENSG00000115844
+J2448	EMX1	EMX1	empty spiracles homeobox 1	ENSG00000135638
+J2453	EMX1	EMX1	empty spiracles homeobox 1	ENSG00000135638
+J2458	EMX2	EMX2	empty spiracles homeobox 2	ENSG00000170370
+J2463	EMX2	EMX2	empty spiracles homeobox 2	ENSG00000170370
+J2468	EN1	EN1	engrailed homeobox 1	ENSG00000163064
+J2473	EN1	EN1	engrailed homeobox 1	ENSG00000163064
+J2478	EN1	EN1	engrailed homeobox 1	ENSG00000163064
+J2483	EN1	EN1	engrailed homeobox 1	ENSG00000163064
+J2488	EN2	EN2	engrailed homeobox 2	ENSG00000164778
+J2493	EN2	EN2	engrailed homeobox 2	ENSG00000164778
+J2498	ESX1	ESX1	ESX homeobox 1	ENSG00000123576
+J2503	ESX1	ESX1	ESX homeobox 1	ENSG00000123576
+J2508	EVX1	EVX1	even-skipped homeobox 1	ENSG00000106038
+J2513	EVX2	EVX2	even-skipped homeobox 2	ENSG00000174279
+J2518	En2	EN2	engrailed homeobox 2	ENSG00000164778
+J2523	GBX1	GBX1	gastrulation brain homeobox 1	ENSG00000164900
+J2528	GBX2	GBX2	gastrulation brain homeobox 2	ENSG00000168505
+J2533	GBX2	GBX2	gastrulation brain homeobox 2	ENSG00000168505
+J2538	GBX2	GBX2	gastrulation brain homeobox 2	ENSG00000168505
+J2543	GSC2	GSC2	goosecoid homeobox 2	ENSG00000063515
+J2548	GSC	GSC	goosecoid homeobox	ENSG00000133937
+J2553	GSX1	GSX1	GS homeobox 1	ENSG00000169840
+J2558	GSX2	GSX2	GS homeobox 2	ENSG00000180613
+J2563	Gbx1	GBX1	gastrulation brain homeobox 1	ENSG00000164900
+J2568	Gbx2	GBX2	gastrulation brain homeobox 2	ENSG00000168505
+J2573	HESX1	HESX1	HESX homeobox 1	ENSG00000163666
+J2578	HESX1	HESX1	HESX homeobox 1	ENSG00000163666
+J2583	HMBOX1	HMBOX1	homeobox containing 1	ENSG00000147421
+J2588	HMX1	HMX1	H6 family homeobox 1	ENSG00000215612
+J2593	HMX2	HMX2	H6 family homeobox 2	ENSG00000188816
+J2598	HMX3	HMX3	H6 family homeobox 3	ENSG00000188620
+J2603	HNF1A	HNF1A	HNF1 homeobox A	ENSG00000135100
+J2608	HNF1B	HNF1B	HNF1 homeobox B	ENSG00000275410
+J2613	HNF1B	HNF1B	HNF1 homeobox B	ENSG00000275410
+J2618	HOXA10	HOXA10	homeobox A10	ENSG00000253293
+J2623	HOXA10	HOXA10	homeobox A10	ENSG00000253293
+J2628	HOXA13	HOXA13	homeobox A13	ENSG00000106031
+J2633	HOXA13	HOXA13	homeobox A13	ENSG00000106031
+J2638	HOXA13	HOXA13	homeobox A13	ENSG00000106031
+J2643	HOXA13	HOXA13	homeobox A13	ENSG00000106031
+J2648	HOXA1	HOXA1	homeobox A1	ENSG00000105991
+J2653	HOXA2	HOXA2	homeobox A2	ENSG00000105996
+J2658	HOXB13	HOXB13	homeobox B13	ENSG00000159184
+J2663	HOXB13	HOXB13	homeobox B13	ENSG00000159184
+J2668	HOXB2	HOXB2	homeobox B2	ENSG00000173917
+J2673	HOXB3	HOXB3	homeobox B3	ENSG00000120093
+J2678	HOXB5	HOXB5	homeobox B5	ENSG00000120075
+J2683	HOXC10	HOXC10	homeobox C10	ENSG00000180818
+J2688	HOXC10	HOXC10	homeobox C10	ENSG00000180818
+J2693	HOXC10	HOXC10	homeobox C10	ENSG00000180818
+J2698	HOXC11	HOXC11	homeobox C11	ENSG00000123388
+J2703	HOXC11	HOXC11	homeobox C11	ENSG00000123388
+J2708	HOXC11	HOXC11	homeobox C11	ENSG00000123388
+J2713	HOXC11	HOXC11	homeobox C11	ENSG00000123388
+J2718	HOXC12	HOXC12	homeobox C12	ENSG00000123407
+J2723	HOXC12	HOXC12	homeobox C12	ENSG00000123407
+J2728	HOXC13	HOXC13	homeobox C13	ENSG00000123364
+J2733	HOXC13	HOXC13	homeobox C13	ENSG00000123364
+J2738	HOXD11	HOXD11	homeobox D11	ENSG00000128713
+J2743	HOXD11	HOXD11	homeobox D11	ENSG00000128713
+J2748	HOXD12	HOXD12	homeobox D12	ENSG00000170178
+J2753	HOXD12	HOXD12	homeobox D12	ENSG00000170178
+J2758	HOXD13	HOXD13	homeobox D13	ENSG00000128714
+J2763	HOXD13	HOXD13	homeobox D13	ENSG00000128714
+J2768	HOXD8	HOXD8	homeobox D8	ENSG00000175879
+J2773	Hoxa11	HOXA11	homeobox A11	ENSG00000005073
+J2778	Hoxa11	HOXA11	homeobox A11	ENSG00000005073
+J2783	Hoxa2	HOXA2	homeobox A2	ENSG00000105996
+J2788	Hoxc10	HOXC10	homeobox C10	ENSG00000180818
+J2793	Hoxc10	HOXC10	homeobox C10	ENSG00000180818
+J2798	Hoxd13	HOXD13	homeobox D13	ENSG00000128714
+J2803	Hoxd13	HOXD13	homeobox D13	ENSG00000128714
+J2808	Hoxd3	HOXD3	homeobox D3	ENSG00000128652
+J2813	Hoxd9	HOXD9	homeobox D9	ENSG00000128709
+J2818	Hoxd9	HOXD9	homeobox D9	ENSG00000128709
+J2823	Hoxd9	HOXD9	homeobox D9	ENSG00000128709
+J2828	IRX2	IRX2	iroquois homeobox 2	ENSG00000170561
+J2833	IRX5	IRX5	iroquois homeobox 5	ENSG00000176842
+J2838	ISL2	ISL2	ISL LIM homeobox 2	ENSG00000159556
+J2843	ISX	ISX	intestine-specific homeobox	ENSG00000175329
+J2848	ISX	ISX	intestine-specific homeobox	ENSG00000175329
+J2853	ISX	ISX	intestine-specific homeobox	ENSG00000175329
+J2858	Irx3	IRX3	iroquois homeobox 3	ENSG00000177508
+J2863	LBX2	LBX2	ladybird homeobox 2	ENSG00000179528
+J2868	LBX2	LBX2	ladybird homeobox 2	ENSG00000179528
+J2873	LHX2	LHX2	LIM homeobox 2	ENSG00000106689
+J2878	LHX2	LHX2	LIM homeobox 2	ENSG00000106689
+J2883	LHX6	LHX6	LIM homeobox 6	ENSG00000106852
+J2888	LHX6	LHX6	LIM homeobox 6	ENSG00000106852
+J2893	LHX6	LHX6	LIM homeobox 6	ENSG00000106852
+J2898	LHX9	LHX9	LIM homeobox 9	ENSG00000143355
+J2903	LHX9	LHX9	LIM homeobox 9	ENSG00000143355
+J2908	LMX1A	LMX1A	LIM homeobox transcription factor 1, alpha	ENSG00000162761
+J2913	LMX1B	LMX1B	LIM homeobox transcription factor 1, beta	ENSG00000136944
+J2918	LMX1B	LMX1B	LIM homeobox transcription factor 1, beta	ENSG00000136944
+J2923	Lhx4	LHX4	LIM homeobox 4	ENSG00000121454
+J2928	Lhx8	LHX8	LIM homeobox 8	ENSG00000162624
+J2933	Lhx8	LHX8	LIM homeobox 8	ENSG00000162624
+J2938	Lhx8	LHX8	LIM homeobox 8	ENSG00000162624
+J2943	MEOX1	MEOX1	mesenchyme homeobox 1	ENSG00000005102
+J2948	MEOX2	MEOX2	mesenchyme homeobox 2	ENSG00000106511
+J2953	MEOX2	MEOX2	mesenchyme homeobox 2	ENSG00000106511
+J2958	MEOX2	MEOX2	mesenchyme homeobox 2	ENSG00000106511
+J2963	MIXL1	MIXL1	Mix paired-like homeobox	ENSG00000185155
+J2968	MNX1	MNX1	motor neuron and pancreas homeobox 1	ENSG00000130675
+J2973	MSX1	MSX1	msh homeobox 1	ENSG00000163132
+J2978	MSX1	MSX1	msh homeobox 1	ENSG00000163132
+J2983	MSX1	MSX1	msh homeobox 1	ENSG00000163132
+J2988	MSX2	MSX2	msh homeobox 2	ENSG00000120149
+J2993	MSX2	MSX2	msh homeobox 2	ENSG00000120149
+J2998	Meox2	MEOX2	mesenchyme homeobox 2	ENSG00000106511
+J3003	Msx3			
+J3008	Msx3			
+J3013	NKX2-3	NKX2-3	NK2 homeobox 3	ENSG00000119919
+J3018	NKX2-3	NKX2-3	NK2 homeobox 3	ENSG00000119919
+J3023	NKX2-8	NKX2-8	NK2 homeobox 8	ENSG00000136327
+J3028	NKX2-8	NKX2-8	NK2 homeobox 8	ENSG00000136327
+J3033	NKX3-1	NKX3-1	NK3 homeobox 1	ENSG00000167034
+J3038	NKX3-2	NKX3-2	NK3 homeobox 2	ENSG00000109705
+J3043	NKX6-1	NKX6-1	NK6 homeobox 1	ENSG00000163623
+J3048	NKX6-1	NKX6-1	NK6 homeobox 1	ENSG00000163623
+J3053	NKX6-2	NKX6-2	NK6 homeobox 2	ENSG00000148826
+J3058	NKX6-2	NKX6-2	NK6 homeobox 2	ENSG00000148826
+J3063	NOTO	NOTO	notochord homeobox	ENSG00000214513
+J3068	Nkx3-1	NKX3-1	NK3 homeobox 1	ENSG00000167034
+J3073	Nkx6-1	NKX6-1	NK6 homeobox 1	ENSG00000163623
+J3078	OTX1	OTX1	orthodenticle homeobox 1	ENSG00000115507
+J3083	OTX1	OTX1	orthodenticle homeobox 1	ENSG00000115507
+J3088	OTX2	OTX2	orthodenticle homeobox 2	ENSG00000165588
+J3093	OTX2	OTX2	orthodenticle homeobox 2	ENSG00000165588
+J3098	Otx1	OTX1	orthodenticle homeobox 1	ENSG00000115507
+J3103	Otx1	OTX1	orthodenticle homeobox 1	ENSG00000115507
+J3108	PDX1	PDX1	pancreatic and duodenal homeobox 1	ENSG00000139515
+J3113	PDX1	PDX1	pancreatic and duodenal homeobox 1	ENSG00000139515
+J3118	PHOX2A	PHOX2A	paired-like homeobox 2a	ENSG00000165462
+J3123	PHOX2B	PHOX2B	paired-like homeobox 2b	ENSG00000109132
+J3128	PHOX2B	PHOX2B	paired-like homeobox 2b	ENSG00000109132
+J3133	PITX1	PITX1	paired-like homeodomain 1	ENSG00000069011
+J3138	PITX1	PITX1	paired-like homeodomain 1	ENSG00000069011
+J3143	PITX3	PITX3	paired-like homeodomain 3	ENSG00000107859
+J3148	PROP1	PROP1	PROP paired-like homeobox 1	ENSG00000175325
+J3153	PROP1	PROP1	PROP paired-like homeobox 1	ENSG00000175325
+J3158	PRRX1	PRRX1	paired related homeobox 1	ENSG00000116132
+J3163	PRRX1	PRRX1	paired related homeobox 1	ENSG00000116132
+J3168	PRRX1	PRRX1	paired related homeobox 1	ENSG00000116132
+J3173	PRRX2	PRRX2	paired related homeobox 2	ENSG00000167157
+J3178	Prrx2	PRRX2	paired related homeobox 2	ENSG00000167157
+J3183	RAXL1	RAX2	retina and anterior neural fold homeobox 2	ENSG00000173976
+J3188	RAX	RAX	retina and anterior neural fold homeobox	ENSG00000134438
+J3193	RHOXF1	RHOXF1	Rhox homeobox family, member 1	ENSG00000101883
+J3198	RHOXF1	RHOXF1	Rhox homeobox family, member 1	ENSG00000101883
+J3203	RHOXF1	RHOXF1	Rhox homeobox family, member 1	ENSG00000101883
+J3208	RHOXF1	RHOXF1	Rhox homeobox family, member 1	ENSG00000101883
+J3213	Rhox11			
+J3218	SHOX2	SHOX2	short stature homeobox 2	ENSG00000168779
+J3223	SHOX	SHOX	short stature homeobox	ENSG00000185960
+J3228	Shox2	SHOX2	short stature homeobox 2	ENSG00000168779
+J3233	UNCX	UNCX	UNC homeobox	ENSG00000164853
+J3238	UNCX	UNCX	UNC homeobox	ENSG00000164853
+J3243	Uncx	UNCX	UNC homeobox	ENSG00000164853
+J3248	Uncx	UNCX	UNC homeobox	ENSG00000164853
+J3253	VAX1	VAX1	ventral anterior homeobox 1	ENSG00000148704
+J3258	VAX2	VAX2	ventral anterior homeobox 2	ENSG00000116035
+J3263	VENTX	VENTX	VENT homeobox	ENSG00000151650
+J3268	VENTX	VENTX	VENT homeobox	ENSG00000151650
+J3273	VSX1	VSX1	visual system homeobox 1	ENSG00000100987
+J3278	VSX1	VSX1	visual system homeobox 1	ENSG00000100987
+J3283	VSX2	VSX2	visual system homeobox 2	ENSG00000119614
+J3288	Vsx1	VSX1	visual system homeobox 1	ENSG00000100987
+J3293	AR	AR	androgen receptor	ENSG00000169083
+J3298	AR	AR	androgen receptor	ENSG00000169083
+J3303	Ar	AR	androgen receptor	ENSG00000169083
+J3308	ESR1	ESR1	estrogen receptor 1	ENSG00000091831
+J3313	ESRRA	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J3318	ESRRA	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J3323	ESRRA	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J3328	ESRRB	ESRRB	estrogen-related receptor beta	ENSG00000119715
+J3333	ESRRG	ESRRG	estrogen-related receptor gamma	ENSG00000196482
+J3338	ESRRG	ESRRG	estrogen-related receptor gamma	ENSG00000196482
+J3343	ESRRG	ESRRG	estrogen-related receptor gamma	ENSG00000196482
+J3348	Esrra	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J3353	Esrra	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J3358	HNF4A	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3363	HNF4A	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3368	HNF4A	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3373	HNF4A	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3378	HNF4A	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3383	HNF4A	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3388	Hnf4a	HNF4A	hepatocyte nuclear factor 4, alpha	ENSG00000101076
+J3393	NR2C2	NR2C2	nuclear receptor subfamily 2, group C, member 2	ENSG00000177463
+J3398	NR2E1	NR2E1	nuclear receptor subfamily 2, group E, member 1	ENSG00000112333
+J3403	NR2E1	NR2E1	nuclear receptor subfamily 2, group E, member 1	ENSG00000112333
+J3408	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	ENSG00000175745
+J3413	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	ENSG00000175745
+J3418	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	ENSG00000175745
+J3423	NR2F6	NR2F6	nuclear receptor subfamily 2, group F, member 6	ENSG00000160113
+J3428	NR2F6	NR2F6	nuclear receptor subfamily 2, group F, member 6	ENSG00000160113
+J3433	NR2F6	NR2F6	nuclear receptor subfamily 2, group F, member 6	ENSG00000160113
+J3438	NR3C1	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	ENSG00000113580
+J3443	NR3C2	NR3C2	nuclear receptor subfamily 3, group C, member 2	ENSG00000151623
+J3448	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	ENSG00000153234
+J3453	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	ENSG00000153234
+J3458	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	ENSG00000153234
+J3463	Nr2e1	NR2E1	nuclear receptor subfamily 2, group E, member 1	ENSG00000112333
+J3468	Nr2e1	NR2E1	nuclear receptor subfamily 2, group E, member 1	ENSG00000112333
+J3473	Nr2f6	NR2F6	nuclear receptor subfamily 2, group F, member 6	ENSG00000160113
+J3478	Nr2f6	NR2F6	nuclear receptor subfamily 2, group F, member 6	ENSG00000160113
+J3483	RARA	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3488	RARA	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3493	RARA	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3498	RARA	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3503	RARA	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3508	RARA	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3513	RARG	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3518	RARG	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3523	RARG	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3528	RARG	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3533	RARG	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3538	RARG	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3543	RORA	RORA	RAR-related orphan receptor A	ENSG00000069667
+J3548	RORA	RORA	RAR-related orphan receptor A	ENSG00000069667
+J3553	RXRA	RXRA	retinoid X receptor, alpha	ENSG00000186350
+J3558	RXRA	RXRA	retinoid X receptor, alpha	ENSG00000186350
+J3563	RXRA	RXRA	retinoid X receptor, alpha	ENSG00000186350
+J3568	RXRA	RXRA	retinoid X receptor, alpha	ENSG00000186350
+J3573	RXRB	RXRB	retinoid X receptor, beta	ENSG00000204231
+J3578	RXRG	RXRG	retinoid X receptor, gamma	ENSG00000143171
+J3583	RXRG	RXRG	retinoid X receptor, gamma	ENSG00000143171
+J3588	RXRG	RXRG	retinoid X receptor, gamma	ENSG00000143171
+J3593	Rara	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3598	Rara	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3603	Rara	RARA	retinoic acid receptor, alpha	ENSG00000131759
+J3608	Rarb	RARB	retinoic acid receptor, beta	ENSG00000077092
+J3613	Rarb	RARB	retinoic acid receptor, beta	ENSG00000077092
+J3618	Rarb	RARB	retinoic acid receptor, beta	ENSG00000077092
+J3623	Rarg	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3628	Rarg	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3633	Rarg	RARG	retinoic acid receptor, gamma	ENSG00000172819
+J3638	Rxra	RXRA	retinoid X receptor, alpha	ENSG00000186350
+J3643	Rxra	RXRA	retinoid X receptor, alpha	ENSG00000186350
+J3648	Rxrb	RXRB	retinoid X receptor, beta	ENSG00000204231
+J3653	THRA	THRA	thyroid hormone receptor, alpha	ENSG00000126351
+J3658	THRB	THRB	thyroid hormone receptor, beta	ENSG00000151090
+J3663	THRB	THRB	thyroid hormone receptor, beta	ENSG00000151090
+J3668	THRB	THRB	thyroid hormone receptor, beta	ENSG00000151090
+J3673	VDR	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	ENSG00000111424
+J3678	Vdr	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	ENSG00000111424
+J3683	TP63	TP63	tumor protein p63	ENSG00000073282
+J3688	Tp53	TP53	tumor protein p53	ENSG00000141510
+J3693	Tp53	TP53	tumor protein p53	ENSG00000141510
+J3698	Tp53	TP53	tumor protein p53	ENSG00000141510
+J3703	Tp73	TP73	tumor protein p73	ENSG00000078900
+J3708	GMEB2	GMEB2	glucocorticoid modulatory element binding protein 2	ENSG00000101216
+J3713	PITX1	PITX1	paired-like homeodomain 1	ENSG00000069011
+J3718	Egr1	EGR1	early growth response 1	ENSG00000120738
+J3723	MTF1	MTF1;MYT1	metal-regulatory transcription factor 1;myelin transcription factor 1	ENSG00000188786;ENSG00000196132
+J3728	PRDM4	PRDM4	PR domain containing 4	ENSG00000110851
+J3733	ZBTB49	ZBTB49	zinc finger and BTB domain containing 49	ENSG00000168826
+J3738	ZNF232	ZNF232	zinc finger protein 232	ENSG00000167840
+J3743	ZNF282	ZNF282	zinc finger protein 282	ENSG00000170265
+J3748	ZNF435	ZSCAN16	zinc finger and SCAN domain containing 16	ENSG00000196812
+J3753	ZNF713	ZNF713	zinc finger protein 713	ENSG00000178665
+J3758	CPEB1	CPEB1	cytoplasmic polyadenylation element binding protein 1	ENSG00000214575
+J3763	E2F1	E2F1	E2F transcription factor 1	ENSG00000101412
+J3768	E2F1	E2F1	E2F transcription factor 1	ENSG00000101412
+J3773	E2F2	E2F2	E2F transcription factor 2	ENSG00000007968
+J3778	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	ENSG00000205250
+J3783	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	ENSG00000205250
+J3788	E2F8	E2F8	E2F transcription factor 8	ENSG00000129173
+J3793	SOX10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J3798	SOX10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J3803	SOX10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J3808	SOX10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J3813	SOX10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J3818	SOX14	SOX14	SRY (sex determining region Y)-box 14	ENSG00000168875
+J3823	SOX14	SOX14	SRY (sex determining region Y)-box 14	ENSG00000168875
+J3828	SOX14	SOX14	SRY (sex determining region Y)-box 14	ENSG00000168875
+J3833	SOX15	SOX15	SRY (sex determining region Y)-box 15	ENSG00000129194
+J3838	SOX15	SOX15	SRY (sex determining region Y)-box 15	ENSG00000129194
+J3843	SOX15	SOX15	SRY (sex determining region Y)-box 15	ENSG00000129194
+J3848	SOX18	SOX18	SRY (sex determining region Y)-box 18	ENSG00000203883
+J3853	SOX18	SOX18	SRY (sex determining region Y)-box 18	ENSG00000203883
+J3858	SOX18	SOX18	SRY (sex determining region Y)-box 18	ENSG00000203883
+J3863	SOX21	SOX21	SRY (sex determining region Y)-box 21	ENSG00000125285
+J3868	SOX21	SOX21	SRY (sex determining region Y)-box 21	ENSG00000125285
+J3873	SOX21	SOX21	SRY (sex determining region Y)-box 21	ENSG00000125285
+J3878	SOX21	SOX21	SRY (sex determining region Y)-box 21	ENSG00000125285
+J3883	SOX2	SOX2	SRY (sex determining region Y)-box 2	ENSG00000181449
+J3888	SOX2	SOX2	SRY (sex determining region Y)-box 2	ENSG00000181449
+J3893	SOX2	SOX2	SRY (sex determining region Y)-box 2	ENSG00000181449
+J3898	SOX2	SOX2	SRY (sex determining region Y)-box 2	ENSG00000181449
+J3903	SOX2	SOX2	SRY (sex determining region Y)-box 2	ENSG00000181449
+J3908	SOX2	SOX2	SRY (sex determining region Y)-box 2	ENSG00000181449
+J3913	SOX4	SOX4	SRY (sex determining region Y)-box 4	ENSG00000124766
+J3918	SOX7	SOX7	SRY (sex determining region Y)-box 7	ENSG00000171056
+J3923	SOX7	SOX7	SRY (sex determining region Y)-box 7	ENSG00000171056
+J3928	SOX7	SOX7	SRY (sex determining region Y)-box 7	ENSG00000171056
+J3933	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3938	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3943	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3948	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3953	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3958	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3963	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3968	SOX8	SOX8	SRY (sex determining region Y)-box 8	ENSG00000005513
+J3973	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J3978	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J3983	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J3988	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J3993	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J3998	SOX9	SOX9	SRY (sex determining region Y)-box 9	ENSG00000125398
+J4003	SRY	SRY	sex determining region Y	ENSG00000184895
+J4008	SRY	SRY	sex determining region Y	ENSG00000184895
+J4013	SRY	SRY	sex determining region Y	ENSG00000184895
+J4018	SRY	SRY	sex determining region Y	ENSG00000184895
+J4023	Sox10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J4028	Sox10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J4033	Sox10	SOX10	SRY (sex determining region Y)-box 10	ENSG00000100146
+J4038	Sox11	SOX11	SRY (sex determining region Y)-box 11	ENSG00000176887
+J4043	Sox17	SOX17	SRY (sex determining region Y)-box 17	ENSG00000164736
+J4048	Sox17	SOX17	SRY (sex determining region Y)-box 17	ENSG00000164736
+J4053	Sox1	SOX1	SRY (sex determining region Y)-box 1	ENSG00000182968
+J4058	Sox1	SOX1	SRY (sex determining region Y)-box 1	ENSG00000182968
+J4063	Sox1	SOX1	SRY (sex determining region Y)-box 1	ENSG00000182968
+J4068	Sox1	SOX1	SRY (sex determining region Y)-box 1	ENSG00000182968
+J4073	Sox3	SOX3	SRY (sex determining region Y)-box 3	ENSG00000134595
+J4078	Sox3	SOX3	SRY (sex determining region Y)-box 3	ENSG00000134595
+J4083	Sox3	SOX3	SRY (sex determining region Y)-box 3	ENSG00000134595
+J4088	TBX20	TBX20	T-box 20	ENSG00000164532
+J4093	MSC	MSC	musculin	ENSG00000178860
+J4098	TFEC	TFEC	transcription factor EC	ENSG00000105967
+J4103	CREB3L1	CREB3L1	cAMP responsive element binding protein 3-like 1	ENSG00000157613
+J4108	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	ENSG00000175745
+J4113	RARB	RARB	retinoic acid receptor, beta	ENSG00000077092
+J4118	RXRG	RXRG	retinoid X receptor, gamma	ENSG00000143171
+J4123	Bhlhb2	BHLHE40	basic helix-loop-helix family, member e40	ENSG00000134107
+J4128	E2F1	E2F1	E2F transcription factor 1	ENSG00000101412
+J4133	E2F1	E2F1	E2F transcription factor 1	ENSG00000101412
+J4138	RFX5	RFX5	regulatory factor X, 5 (influences HLA class II expression)	ENSG00000143390
+J4143	YY2	YY2	YY2 transcription factor	ENSG00000230797
+J4148	EGR4	EGR4	early growth response 4	ENSG00000135625
+J4153	NFIA	NFIA	nuclear factor I/A	ENSG00000162599
+J4158	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	ENSG00000008441
+J4163	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	ENSG00000008441
+J4168	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	ENSG00000008441
+J4173	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	ENSG00000137203
+J4178	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	ENSG00000137203
+J4183	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	ENSG00000137203
+J4188	HES5	HES5	hes family bHLH transcription factor 5	ENSG00000197921
+J4193	ESRRA	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J4198	ESRRA	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J4203	ESRRA	ESRRA	estrogen-related receptor alpha	ENSG00000173153
+J4208	CREB3L1	CREB3L1	cAMP responsive element binding protein 3-like 1	ENSG00000157613
+J4213	CREB3L1	CREB3L1	cAMP responsive element binding protein 3-like 1	ENSG00000157613
+J4218	ELK1	ELK1;KCNH4	ELK1, member of ETS oncogene family;potassium channel, voltage gated eag related subfamily H, member 4	ENSG00000126767;ENSG00000089558
+J4223	HOXD12	HOXD12	homeobox D12	ENSG00000170178
+J4228	HOXD12	HOXD12	homeobox D12	ENSG00000170178
